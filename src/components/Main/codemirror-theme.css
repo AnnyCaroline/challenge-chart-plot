@@ -1,0 +1,41 @@
+.cm-s-codemirror-theme.CodeMirror, .cm-s-codemirror-theme{
+    background-color: #2E343F !important;
+    font-size: 1.2em;
+    color: #fdfdfd !important;
+    border: none;
+    min-height: 100% !important;
+}
+
+.cm-s-codemirror-theme .CodeMirror-gutters {
+    background-color:#5F656E;
+    border: none;
+}
+
+.cm-s-codemirror-theme .CodeMirror-cursor {
+    border-left: solid thin #f8f8f0;
+}
+.cm-s-codemirror-theme .CodeMirror-linenumber {
+    color: #2E343F;
+}
+
+.cm-s-codemirror-theme span.cm-comment {
+    color: #6272a4;
+}
+
+.cm-s-codemirror-theme div.CodeMirror-selected {
+    background: #314D67;
+}
+
+.cm-s-codemirror-theme span.cm-string {
+    color: #0ad6e7;
+}
+
+.cm-s-codemirror-theme span.cm-property {
+    color: #fdfdfd;
+}
+
+.cm-s-codemirror-theme span.cm-number {
+    color: #bd93f9;
+}
+
+
