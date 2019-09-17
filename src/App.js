@@ -10,10 +10,10 @@ export default class App extends Component {
       <>
         <GlobalStyle />
         <Main
-          offSetTop={100}
-          offSetBottom={100}
-          offSetLeft={100}
-          offSetRight={100}
+          offSetTop={0}
+          offSetBottom={0}
+          offSetLeft={0}
+          offSetRight={0}
         />
       </>
     );
